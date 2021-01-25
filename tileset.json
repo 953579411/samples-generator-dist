@@ -1,0 +1,23 @@
+{
+  "asset": {
+    "version": "1.0"
+  },
+  "geometricError": 70,
+  "root": {
+    "refine": "ADD",
+    "boundingVolume": {
+      "region": [
+        1.9787389000028852,
+        0.3929228067401215,
+        1.978772843943662,
+        0.39295438494012147,
+        0,
+        12
+      ]
+    },
+    "geometricError": 0,
+    "content": {
+      "uri": "instancedWithoutBatchTable.i3dm"
+    }
+  }
+}
